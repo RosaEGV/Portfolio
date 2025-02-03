@@ -41,3 +41,9 @@ Valido resultados de diferentes áreas clínicas para garantizar control de cali
 2012-2015
 Responsable de diferentes áreas: Química Clínica, Inmunología, Uroanálisis, Hematología, Coagulación.Se calibraron para garantizar una optimización en los procesos analíticos de los equipos automatizados (COBAS C111, MYNDRAY BC-3200, URISCAN, CL ANALYZER).Se garantizo la toma de muestras en base a los estándares de la ISO 15189, para finalmente validar los resultados normales y críticos en área urgencias y rutinarios
 
+# Proyectos seleccionados
+
+## Análisis de retención de clientes para gimnasio
+En todas las industrias, la retención de clientes es fundamental para garantizar **ingresos sostenibles** y **reducir los costos asociados con la adquisición de nuevos clientes**. Identificar los factores clave que influyen en la retención y cancelación permite al gimnasio Model Fitness anticiparse a los riesgos de abandono, **diseñar estrategias de fidelización efectivas** y **personalizar las experiencias para cada cliente**.
+
+#### Herramientas y tipo de proyecto
