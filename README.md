@@ -61,4 +61,9 @@ La **automatización** hace que las pruebas de API sean mucho más fáciles, ya 
 2.	Tenemos que tener instalado la paqueteria Request y paqueteria Pytest
 3.	Llamar las funciones en el archivo sender_request.py, son dos solicitudes Post, una para creacion de usuario y otra para creación de un kit.
 4.	Llamar funciones Negative assert y Possitive assert, dentro del archive create, para después correr los autotest de cada uno de los puntos de la lista de comprobación en la cual solamente varia el campo: “name”
-5.	V
+5.	Vamos a checar que este en “Current File”
+6.	Correrlas y checar cuantas fueron aprobadas y cuantas no lo fueron
+
+### Conclusiones
+
+
