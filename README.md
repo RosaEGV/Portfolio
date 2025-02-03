@@ -22,3 +22,22 @@ Análisis de requerimientos funcionales |Atencion al detalle y organizada  | Com
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-295F98?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](rosag:evevale_@hotmail.com)
 
 * * *
+
+### EXPERIENCIA TECNICA
+
+ **QA ENGINEER , TRIPLETEN   07/2024 – 11/2024**
+
+-Trabaje como parte de un programa educativo en el cual desarrolle varias capacidades como: la comprensión, el análisis y el enfoque.Desarrolle listas de comprobación y casos de pruebas para testear funciones e interfaces de páginas web en diferentes entornos, utilice Selenium como herramienta para la automatización de pruebas en páginas web.
+Realice un proceso completo de testing, desde un manejo de lista de comprobación, casos de prueba hasta un informe de errores completo en Jira, tanto en páginas web, aplicaciones móviles y APIS.
+Tambien maneje back-end (APIS) (PSQL) y front-end (UI, Figma, Dev Tools) para el testeo de pruebas.
+
+### EXPERIENCIA PROFESIONAL
+
+**Técnico Laboratorista “A” ,INSTITUTO DE SALUD DEL ESTADO DE MÉXICO**             
+2008-Actualidad
+Valido resultados de diferentes áreas clínicas para garantizar control de calidad en los procedimientosy asi garantizar la entrega de resultados de manera óptima y eficaz.Realizo procesos de calibracion para optimizar los procesos analíticos de los equipos automatizados asi como el proceso toma de muestras siguiendo los estándares de las normas ISO 15189 para finalmente elaborar informes de resultados críticos para optimizar una buena comunicación efectiva
+
+**Químico suplente  l  INSTITUTO MEXICANO DEL SEGURO SOCIAL**                                       
+2012-2015
+Responsable de diferentes áreas: Química Clínica, Inmunología, Uroanálisis, Hematología, Coagulación.Se calibraron para garantizar una optimización en los procesos analíticos de los equipos automatizados (COBAS C111, MYNDRAY BC-3200, URISCAN, CL ANALYZER).Se garantizo la toma de muestras en base a los estándares de la ISO 15189, para finalmente validar los resultados normales y críticos en área urgencias y rutinarios
+
