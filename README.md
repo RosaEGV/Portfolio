@@ -46,6 +46,14 @@ AUTOMATIZACION DE LISTA DE COMPROBACION DE PRUEBA API DE LA APLICACIÓN URBAN GR
 
 ## AUTOMATIZACION DE LISTA DE COMPROBACION DE PRUEBA DE LA APLICACION URBAN GROCERS 
 EN ESTE PROYECTO SE PRETENDE VALIDAR LA LISTA DE COMPROBACION DE LA API GROCERY URBAN, PARA LA CREACION DE UN KIT, EN EL CAMPO NAME Y LA VALIDACION DEL AUTHTOKEN
-En todas las industrias, la retención de clientes es fundamental para garantizar **ingresos sostenibles** y **reducir los costos asociados con la adquisición de nuevos clientes**. Identificar los factores clave que influyen en la retención y cancelación permite al gimnasio Model Fitness anticiparse a los riesgos de abandono, **diseñar estrategias de fidelización efectivas** y **personalizar las experiencias para cada cliente**.
+La **automatización** hace que las pruebas de API sean mucho más fáciles, ya que no tienes que enviar solicitudes y respuestas manualmente, la automatización es una manera muy **eficiente y rápida** para nosotros los testers , es una herramienta valiosa. Python ofrece muchas soluciones listas para usar: librerías.
 
-#### Herramientas y tipo de proyecto
+#### Herramientas 
+![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+
+### Metodologia
