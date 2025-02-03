@@ -65,5 +65,5 @@ La **automatización** hace que las pruebas de API sean mucho más fáciles, ya 
 6.	Correrlas y checar cuantas fueron aprobadas y cuantas no lo fueron
 
 ### Conclusiones
-
+Con el testeo para hacer pruebas API, mediante la ayuda de PyCharm es una herramienta muy util para llevar a cabo un testeo, para esta aplicacion se concluyo que arrojo 4 pruebas que pasaron y 
 
