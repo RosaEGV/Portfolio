@@ -42,8 +42,10 @@ Valido resultados de diferentes áreas clínicas para garantizar control de cali
 Responsable de diferentes áreas: Química Clínica, Inmunología, Uroanálisis, Hematología, Coagulación.Se calibraron para garantizar una optimización en los procesos analíticos de los equipos automatizados (COBAS C111, MYNDRAY BC-3200, URISCAN, CL ANALYZER).Se garantizo la toma de muestras en base a los estándares de la ISO 15189, para finalmente validar los resultados normales y críticos en área urgencias y rutinarios
 
 # Proyectos seleccionados
+AUTOMATIZACION DE LISTA DE COMPROBACION DE PRUEBA API DE LA APLICACIÓN URBAN GROCERS MEDIANTE LA IDE PYCHARM, LIBRERÍA REQUEST Y PAQUETE PYTEST
 
-## Análisis de retención de clientes para gimnasio
+## AUTOMATIZACION DE LISTA DE COMPROBACION DE PRUEBA DE LA APLICACION URBAN GROCERS 
+EN ESTE PROYECTO SE PRETENDE VALIDAR LA LISTA DE COMPROBACION DE LA API GROCERY URBAN, PARA LA CREACION DE UN KIT, EN EL CAMPO NAME Y LA VALIDACION DEL AUTHTOKEN
 En todas las industrias, la retención de clientes es fundamental para garantizar **ingresos sostenibles** y **reducir los costos asociados con la adquisición de nuevos clientes**. Identificar los factores clave que influyen en la retención y cancelación permite al gimnasio Model Fitness anticiparse a los riesgos de abandono, **diseñar estrategias de fidelización efectivas** y **personalizar las experiencias para cada cliente**.
 
 #### Herramientas y tipo de proyecto
