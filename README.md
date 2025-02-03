@@ -57,3 +57,8 @@ La **automatización** hace que las pruebas de API sean mucho más fáciles, ya 
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
 ### Metodologia
+1.	Hay que estar actualizando y metiendo la URL del servidor , constantemente
+2.	Tenemos que tener instalado la paqueteria Request y paqueteria Pytest
+3.	Llamar las funciones en el archivo sender_request.py, son dos solicitudes Post, una para creacion de usuario y otra para creación de un kit.
+4.	Llamar funciones Negative assert y Possitive assert, dentro del archive create, para después correr los autotest de cada uno de los puntos de la lista de comprobación en la cual solamente varia el campo: “name”
+5.	V
