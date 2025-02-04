@@ -111,7 +111,7 @@ ESTE PROYECTO ES MUY INTERESANTE PORQUE NOS PERMITE UTILIZAR LA AUTOMATIZACION M
 
 ![Imagen9](https://github.com/user-attachments/assets/f388055e-d05d-4ab9-b0d0-9a8825be0606)
 
-**Explora más detalles del proyecto en el [repositorio completo]().**
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/RosaEGV/qa-project-Urban-Routes-es.git).**
 
 
 
