@@ -75,7 +75,7 @@ Con el testeo automatizado para la realizacion de una lista de comprobacion en e
 
 ![Imagen4](https://github.com/user-attachments/assets/418e17fb-ed37-492a-af3b-be5cdbfbc7fb)
 
-**Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/customer-retention-analysis).**
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/RosaEGV/qa-project-Urban-Grocers-app-es.git).**
 
 ### PROYECTO DE AUTOMATIZACION PARA PEDIR UN TAXI EN LA APP URBAN ROUTES
 Selenium es una herramienta de código abierto que se utiliza para automatizar las pruebas realizadas en los navegadores web.
@@ -111,7 +111,7 @@ ESTE PROYECTO ES MUY INTERESANTE PORQUE NOS PERMITE UTILIZAR LA AUTOMATIZACION M
 
 ![Imagen9](https://github.com/user-attachments/assets/f388055e-d05d-4ab9-b0d0-9a8825be0606)
 
-**Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/customer-retention-analysis).**
+**Explora más detalles del proyecto en el [repositorio completo]().**
 
 
 
