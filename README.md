@@ -75,7 +75,7 @@ Con el testeo automatizado para la realizacion de una lista de comprobacion en e
 
 ![Imagen4](https://github.com/user-attachments/assets/418e17fb-ed37-492a-af3b-be5cdbfbc7fb)
 
-
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/customer-retention-analysis).**
 
 ### PROYECTO DE AUTOMATIZACION PARA PEDIR UN TAXI EN LA APP URBAN ROUTES
 Selenium es una herramienta de código abierto que se utiliza para automatizar las pruebas realizadas en los navegadores web.
@@ -103,6 +103,15 @@ Selenium WebDriver. **Selenium WebDriver** es el sucesor de Selenium Remote Cont
 ESTE PROYECTO ES MUY INTERESANTE PORQUE NOS PERMITE UTILIZAR LA AUTOMATIZACION MEDIANTE SELENIUM Y LA IDE PYCHARM, EL CODIGO DE SELENIUM ES FACIL DE DIGERIR, PERO ES MUY IMPORTANTE PARA UN PROYECTO COMO ESTE, CONOCER Y SELECCIONAR ADECUADAMENTE LOS LOCALIZADORES PARA CADA PASO, YA QUE ESTO ES ESENCIAL PARA LA REALIZACION Y EL EXITO DE LAS AUTOMATIZACIONES.
 
 
+![Imagen6](https://github.com/user-attachments/assets/3cb3d869-c083-4bed-9417-613d559204ec)
+
+![Imagen7](https://github.com/user-attachments/assets/ab2a64c9-db70-4893-a9a0-43c5b8837de8)
+
+![Imagen8](https://github.com/user-attachments/assets/860ba1be-dc4b-4d11-8403-288c2038d9c0)
+
+![Imagen9](https://github.com/user-attachments/assets/f388055e-d05d-4ab9-b0d0-9a8825be0606)
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/customer-retention-analysis).**
 
 
 
