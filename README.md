@@ -57,13 +57,15 @@ La **automatización** hace que las pruebas de API sean mucho más fáciles, ya 
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
 ### Metodologia
-1.	Hay que estar actualizando y metiendo la URL del servidor , constantemente
+1.	Actualizar y meter la URL del servidor constantemente.
 2.	Tenemos que tener instalado la paqueteria Request y paqueteria Pytest
 3.	Llamar las funciones en el archivo sender_request.py, son dos solicitudes Post, una para creacion de usuario y otra para creación de un kit.
 4.	Llamar funciones Negative assert y Possitive assert, dentro del archive create, para después correr los autotest de cada uno de los puntos de la lista de comprobación en la cual solamente varia el campo: “name”
-5.	Vamos a checar que este en “Current File”
+5.	Vamos a checar que este en “Current File"
 6.	Correrlas y checar cuantas fueron aprobadas y cuantas no lo fueron
 
 ### Conclusiones
-Con el testeo para hacer pruebas API, mediante la ayuda de PyCharm es una herramienta muy util para llevar a cabo un testeo, para esta aplicacion se concluyo que arrojo 4 pruebas que pasaron y 
+Con el testeo automatizado para la realizacion de una lista de comprobacion en este caso solo para probar el campo "name" en una API de la aplicacion Grocery Urban , se concluye que existen pruebas que son aprobadas y otras que no, es un comportamiento esperado, aun asi la utilizacion de estas herramientas son muy valiosas para llevar a acabo un procedimiento de manera mas rapida y eficaz.
+
+![Screenshot (6)](https://github.com/user-attachments/assets/1cf12f5c-9f8d-478f-aad9-222e3962aabd)
 
