@@ -52,7 +52,6 @@ La **automatización** hace que las pruebas de API sean mucho más fáciles, ya 
 ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
@@ -79,13 +78,28 @@ Con el testeo automatizado para la realizacion de una lista de comprobacion en e
 
 
 ### PROYECTO DE AUTOMATIZACION PARA PEDIR UN TAXI EN LA APP URBAN ROUTES
+Selenium es una herramienta de código abierto que se utiliza para automatizar las pruebas realizadas en los navegadores web.
+Selenium WebDriver. Selenium WebDriver es el sucesor de Selenium Remote Control. Es el componente más utilizado de Selenium. El mismo permite a los usuarios escribir su código en distintos lenguajes de programación e interactuar con el navegador seleccionado.En el siguiente proyecto se realizaron pruebas automatizadas para la pagina de la aplicacion de Urban Routes con la ayuda de Selenium y PyTest.
 
 ## HERRAMIENTAS
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
 
 ## METODOLOGIA
-
+-SE REALIZO EL RECLUTAMIENTO DE LOS LOCALIZADORES PARA CADA UNO DE LOS PASOS SOLICITADOS PARA EL PROYECTO, ESTOS LOCALIZADORES FUERON EXTRAIDOS CON AYUDA DEL DEVTOOL, CADA UNO FUE ELEGIDO EN BASE A CRITERIOS YA CONOCIDOS Y AL MOMENTO DE REALIZAR LOS METODOS ALGUNOS FUERON CAMBIADOS O ADICIONADOS
+-YA TENIENDO LOS LOCALIZADORES SE PROCEDE A CREAR LOS METODOS PARA CADA UNO DE LOS PASOS REQUERIDOS PARA LA PEDIDA DE UN TAXI EN LA APLICACION URBAN ROUTES
+-SE UTILIZARON METODOS CLICK, SET, GET, CHECK, WAIT.DRIVER POR SUPUESTO.
+-POSTERIORMENTE  SE REALIZARON TEST PARA CADA UNA DE LAS PRUEBAS EN LAS CUALES SE INCLUYERON LOS DECORADORES SETUP CLASS Y TEARDOWN CLASS
+-DENTRO DE ESTAS PRUEBAS SE COLOCARON LOS METODOS CORRESPONDIENTES EN CADA UNO DE LOS PASOS REQUERIDOS PARA CADA PUNTO SOLICITADO
+-TAMBIEN SE REALIZARON EN CADA PASA CON ASSERT CON LA FINALIDAD DE PROBAR O VERIFICAR  CIERTO REQUISITO PARA CADA PASO
 ### CONCLUSIONES
+ESTE PROYECTO ES MUY INTERESANTE PORQUE NOS PERMITE UTILIZAR LA AUTOMATIZACION MEDIANTE SELENIUM Y LA IDE PYCHARM, EL CODIGO DE SELENIUM ES FACIL DE DIGERIR, PERO ES MUY IMPORTANTE PARA UN PROYECTO COMO ESTE, CONOCER Y SELECCIONAR ADECUADAMENTE LOS LOCALIZADORES PARA CADA PASO, YA QUE ESTO ES ESENCIAL PARA LA REALIZACION Y EL EXITO DE LAS AUTOMATIZACIONES.
+
 
 
 
