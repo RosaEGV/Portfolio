@@ -67,5 +67,14 @@ La **automatización** hace que las pruebas de API sean mucho más fáciles, ya 
 ### Conclusiones
 Con el testeo automatizado para la realizacion de una lista de comprobacion en este caso solo para probar el campo "name" en una API de la aplicacion Grocery Urban , se concluye que existen pruebas que son aprobadas y otras que no, es un comportamiento esperado, aun asi la utilizacion de estas herramientas son muy valiosas para llevar a acabo un procedimiento de manera mas rapida y eficaz.
 
-![Screenshot (6)](https://github.com/user-attachments/assets/1cf12f5c-9f8d-478f-aad9-222e3962aabd)
+
+
+![Imagen1](https://github.com/user-attachments/assets/5631277d-9400-4072-9015-dd07ec07c0a4)
+
+
+![Imagen2](https://github.com/user-attachments/assets/90f50dd1-3a1d-4e33-b08d-a40a89664a23)
+
+![Imagen4](https://github.com/user-attachments/assets/418e17fb-ed37-492a-af3b-be5cdbfbc7fb)
+
+
 
