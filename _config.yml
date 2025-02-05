@@ -1,6 +1,6 @@
 title: Rosa Evelin Guzman Valencia
 logo: foto.jpg
 description: ¡Hola! Te doy la bienvenida a mi portafolio de proyectos de QA Enginner.
-show_downloads: true
-github: https://github.com/RosaEGV/RosaEGV.git
+show_downloads: false
+#google analitics:
 theme: jekyll-theme-minimal
